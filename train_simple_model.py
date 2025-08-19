@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-"""
-Simplified Fake News Detection Training Script
-Based on the working notebook approach that achieves 94.84% accuracy
-"""
 
 import pandas as pd
 import numpy as np
